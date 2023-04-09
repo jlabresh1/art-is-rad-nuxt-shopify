@@ -11,6 +11,13 @@
 
 > Easy <a href="https://github.com/Shopify/js-buy-sdk">Shopify Buy</a> client integration with Nuxt.js
 
+<a href="https://stackblitz.com/github/jlabresh1/art-is-rad-nuxt-shopify">
+  <img
+    alt="Open in StackBlitz"
+    src="https://developer.stackblitz.com/img/open_in_stackblitz.svg"
+  />
+</a>
+
 ## Setup
 
 Install with yarn:
